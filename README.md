@@ -1,5 +1,6 @@
 # Modpak
-Clients do not need to install this modpak (modpack). This is a reference for the server.
+Clients do not need to install this modpak (modpack). This is a reference for the server.\
+***HOWEVER***, you can install the pack from the [releases](/../releases) if you do not want to set it up yourself.
 
 ### Only thing(s) clients need:
 - Java 21 JRE << HINT: If you can launch Minecraft 1.21.1, you have this
